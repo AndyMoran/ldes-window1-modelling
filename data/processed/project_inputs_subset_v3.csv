@@ -1,0 +1,6 @@
+project,technology,mw,duration_h,rrt,annual_mwh_delivered,annual_gross_revenue_m,residual_support_k_mwyr,gross_revenue_k_mwyr,mwh_delivered_per_mw,avg_revenue_gbp_mwh
+Field Long Stratton,Li-ion,400,16.1,False,2044000,127.71,395,319.275,5110.0,62.480430528375734
+Field Netherton,Li-ion,400,16.3,True,1506258,75.19,524,187.975,3765.645,49.91840707236078
+Coire Glas,PSH,1440,32.0,True,6301440,331.15,0,229.96527777777777,4376.0,52.551480296567135
+Loch Kemp Storage,PSH,660,22.3,True,3857431,155.23,0,235.1969696969697,5844.592424242424,40.24180860266846
+Earba,PSH,1800,15.0,True,5004698,236.62,0,131.45555555555555,2780.387777777778,47.279576110286776

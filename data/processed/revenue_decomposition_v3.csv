@@ -1,0 +1,12 @@
+metric,value,unit
+Field Long Stratton gross revenue,319.275,£k/MW/yr
+Field Netherton gross revenue,187.975,£k/MW/yr
+Delivered MWh reduction,26.30831702544031,%
+Observed average revenue/MWh reduction,20.105532804083136,%
+Observed gross revenue reduction,41.12442251977135,%
+Mechanical revenue reduction: MWh loss + 15% RRT price penalty,37.36206947162426,%
+Residual dispatch-mix / model-effect gap,3.762353048147091,percentage points
+Duration-adjusted non-RRT support baseline,400.56,£k/MW/yr
+Field Netherton residual support,524.0,£k/MW/yr
+Physical constraint support premium,123.44,£k/MW/yr
+Physical constraint support premium,30.816856401038546,%
