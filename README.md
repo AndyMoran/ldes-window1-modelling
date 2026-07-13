@@ -11,7 +11,7 @@ In 2026, I submitted a formal consultation response and technical Addendum to Of
 
 **Addendum:**
 
-**[📄 Read the Full Addendum: Compounding Physics and Regulatory Risks]()** 
+**[📄 Read the Full Addendum: Compounding Physics and Regulatory Risks](https://github.com/AndyMoran/ldes-window1-modelling/blob/main/Addendum_PSH_Compounding_Physics_Fixed_Costs_AGM.docx)** 
 
 ---
 
