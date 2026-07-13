@@ -7,7 +7,7 @@ In 2026, I submitted a formal consultation response and technical Addendum to Of
 
 **Formal Response:**
 
-**[📄 Read the Response to Ofgem Consultation: Long-Duration Electricity Storage Cap and Floor Framework ]()**
+**[📄 Read the Response to Ofgem Consultation: Long-Duration Electricity Storage Cap and Floor Framework ](https://github.com/AndyMoran/ldes-window1-modelling/blob/main/Response%20to%20Ofgem%20Consultation_AGM.docx)**
 
 **Addendum:**
 
