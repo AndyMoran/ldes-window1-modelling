@@ -3,9 +3,15 @@
 Independent modelling of Ofgem’s Window 1 Long-Duration Energy Storage (LDES) portfolio using publicly available data. This project explores how physical duration, geographic constraint exposure, and technology-specific lifecycle costs shape project-level economics.
 
 ### Latest Update: Ofgem Consultation Addendum
-In 2026, I submitted a formal consultation response and technical Addendum to Ofgem's Window 1 minded-to decision. This repository contains the underlying project-level modelling, data pipelines, and the full text of the Addendum supporting that submission. 
+In 2026, I submitted a formal consultation response and technical Addendum to Ofgem's Window 1 minded-to decision. This repository contains the underlying project-level modelling, data pipelines, and the full text of the Addendum supporting that submission.
 
-**[📄 Read the Full Addendum: Compounding Physics and Regulatory Risks](link-to-your-pdf-or-markdown-file-here)** *(Update this link to point to your actual file)*
+**Formal Response:**
+
+**[📄 Read the Response to Ofgem Consultation: Long-Duration Electricity Storage Cap and Floor Framework ]()**
+
+**Addendum:**
+
+**[📄 Read the Full Addendum: Compounding Physics and Regulatory Risks]()** 
 
 ---
 
