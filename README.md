@@ -34,7 +34,7 @@ The analysis is exploratory and intended to support transparent, evidence-based 
 ### Contents
 - `/notebooks/` — Jupyter notebooks for dispatch modelling, LCOS, and regression analysis.
 - `/data/processed/` — Publicly sourced datasets (Ofgem Window 1 annexes, ELEXON BMRS price and constraint data).
-- `/docs/` — Consultation response documents and the technical Addendum. *(Add this folder if you upload the PDF/Markdown here)*
+- `/docs/` — Consultation response documents and the technical Addendum.
 
 ### Reproducibility
 All modelling is based solely on public data and reproducible methods. The goal is to provide a transparent, open-source baseline that the industry can review, challenge, and build upon.
